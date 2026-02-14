@@ -1,2 +1,2 @@
-# İlk Web Sayfam
-Okul projesi için sadece HTML kullanarak yazdığım gezegenler temalı sayfa
+# My First Web Page
+A web page which is written with only pure HTML for my school project.
